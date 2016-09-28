@@ -8,7 +8,7 @@ tracker_label = ['test-tracker'];
 % For classical executables this is usually just a full path to the executable plus
 % optional arguments:
 
-tracker_command = generate_python_command('python_static.py', {'/vot-toolkit/test_tracker'});
+tracker_command = generate_python_command('python_static.py', {'/tracker'});
 
 % tracker_interpreter = []; % Set the interpreter used here as a lower case string. E.g. if you are using Matlab, write 'matlab'. (optional)
 
