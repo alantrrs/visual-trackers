@@ -11,7 +11,7 @@ set_global_variable('version', 4);
 % set_global_variable('pack', 0);
 
 % Set empirical data path
-set_global_variable('data_path', '/data')
+set_global_variable('workspace_path', '/data')
 
 % Set empirical workspace path
 set_global_variable('directory', '/workspace')
